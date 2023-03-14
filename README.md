@@ -1,5 +1,12 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+This Project is used as an API Proxy for the Codesphere Test Task.
+
+It has three API Routes, which will call the responding Codesphere API:
+- createWorkspace
+- deleteWorkspace
+- listWorkspace 
+
 ## Getting Started
 
 First, run the development server:
